@@ -1,0 +1,33 @@
+API-Football plan: Pro (used 1305 of 7500 requests today)
+
+=== Premier League ===
+  odds for 12 upcoming fixtures
+  injury lists for 12 upcoming fixtures
+  fetched: 0 matches needing stats, 530 players (53 API calls so far)
+  predicted 10 fixtures from 830 past matches
+
+=== La Liga ===
+  odds for 12 upcoming fixtures
+  injury lists for 12 upcoming fixtures
+  fetched: 0 matches needing stats, 596 players (108 API calls so far)
+  predicted 10 fixtures from 849 past matches
+
+=== Bundesliga ===
+  odds for 12 upcoming fixtures
+  injury lists for 12 upcoming fixtures
+  fetched: 0 matches needing stats, 453 players (156 API calls so far)
+  predicted 10 fixtures from 670 past matches
+
+=== Serie A ===
+  odds for 12 upcoming fixtures
+  injury lists for 12 upcoming fixtures
+  fetched: 0 matches needing stats, 636 players (213 API calls so far)
+  predicted 10 fixtures from 830 past matches
+
+=== Ligue 1 ===
+  odds for 12 upcoming fixtures
+  injury lists for 12 upcoming fixtures
+  fetched: 0 matches needing stats, 479 players (262 API calls so far)
+  predicted 10 fixtures from 678 past matches
+
+API calls this run: 262

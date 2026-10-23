@@ -3,7 +3,7 @@
  "name": "Serie A",
  "country": "Italy",
  "season": 2026,
- "updated": "2026-10-23T12:47:15.945057+00:00",
+ "updated": "2026-10-23T13:33:25.711709+00:00",
  "matches_used": 830,
  "fixtures": [
   {
@@ -1994,9 +1994,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 70.3,
+    "home": 69.9,
     "draw": 17.9,
-    "away": 11.8
+    "away": 12.1
    },
    "injury_effect": {
     "home": {
@@ -2070,11 +2070,9 @@
        "name": "M. Thuram",
        "p": 42.4,
        "price": {
-        "odd": 1.73,
-        "bookie": "Bet365",
-        "books": {
-         "Bet365": 1.73
-        }
+        "odd": 1.72,
+        "bookie": "Betano",
+        "books": {}
        }
       },
       {
@@ -2111,11 +2109,9 @@
        "name": "Franco Mastantuono",
        "p": 20.6,
        "price": {
-        "odd": 4.33,
-        "bookie": "Bet365",
-        "books": {
-         "Bet365": 4.33
-        }
+        "odd": 4.65,
+        "bookie": "Betano",
+        "books": {}
        }
       },
       {
@@ -2123,11 +2119,9 @@
        "name": "Mateo Pellegrino",
        "p": 16.3,
        "price": {
-        "odd": 3.6,
-        "bookie": "Bet365",
-        "books": {
-         "Bet365": 3.6
-        }
+        "odd": 3.5,
+        "bookie": "Betano",
+        "books": {}
        }
       }
      ],
@@ -2248,14 +2242,14 @@
      "bookie": "1xBet",
      "books": {
       "William Hill": 1.36,
-      "Bet365": 1.33,
+      "Bet365": 1.36,
       "Betfair": 1.33,
       "BetVictor": 1.33
      }
     },
     "draw": {
-     "odd": 5.8,
-     "bookie": "Dafabet",
+     "odd": 5.75,
+     "bookie": "Pinnacle",
      "books": {
       "William Hill": 5.0,
       "Bet365": 5.25,
@@ -2264,18 +2258,18 @@
      }
     },
     "away": {
-     "odd": 9.0,
-     "bookie": "Bet365",
+     "odd": 8.03,
+     "bookie": "Pinnacle",
      "books": {
       "William Hill": 7.0,
-      "Bet365": 9.0,
+      "Bet365": 8.0,
       "Betfair": 8.0,
       "BetVictor": 8.0
      }
     },
     "over25": {
-     "odd": 1.47,
-     "bookie": "Betano",
+     "odd": 1.45,
+     "bookie": "1xBet",
      "books": {
       "Bet365": 1.44,
       "Betfair": 1.4,
@@ -3552,9 +3546,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 18.8,
-    "draw": 25.2,
-    "away": 56.0
+    "home": 18.2,
+    "draw": 25.1,
+    "away": 56.7
    },
    "injury_effect": {
     "home": {
@@ -3802,12 +3796,12 @@
    ],
    "odds": {
     "home": {
-     "odd": 5.25,
+     "odd": 5.5,
      "bookie": "Bet365",
      "books": {
-      "William Hill": 4.8,
-      "Bet365": 5.25,
-      "Betfair": 5.0,
+      "William Hill": 4.75,
+      "Bet365": 5.5,
+      "Betfair": 5.5,
       "BetVictor": 5.0
      }
     },
@@ -3817,7 +3811,7 @@
      "books": {
       "William Hill": 3.7,
       "Bet365": 3.7,
-      "Betfair": 3.8,
+      "Betfair": 3.9,
       "BetVictor": 3.75
      }
     },
@@ -3826,8 +3820,8 @@
      "bookie": "1xBet",
      "books": {
       "William Hill": 1.67,
-      "Bet365": 1.7,
-      "Betfair": 1.7,
+      "Bet365": 1.67,
+      "Betfair": 1.67,
       "BetVictor": 1.65
      }
     },
@@ -3850,7 +3844,7 @@
      }
     },
     "btts_yes": {
-     "odd": 1.85,
+     "odd": 1.83,
      "bookie": "Betano",
      "books": {
       "William Hill": 1.8,
@@ -3891,14 +3885,18 @@
      },
      "3.5": {
       "over": {
-       "odd": 1.79,
-       "bookie": "Pinnacle",
-       "books": {}
+       "odd": 1.8,
+       "bookie": "Bet365",
+       "books": {
+        "Bet365": 1.8
+       }
       },
       "under": {
        "odd": 2.07,
        "bookie": "Betano",
-       "books": {}
+       "books": {
+        "Bet365": 1.91
+       }
       }
      },
      "4.5": {
