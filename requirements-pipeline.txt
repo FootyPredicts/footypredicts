@@ -1,0 +1,7 @@
+# Packages needed by the automatic daily update (see .github/workflows/update-predictions.yml)
+pandas>=2.2,<3
+numpy
+requests
+beautifulsoup4
+scikit-learn
+scipy

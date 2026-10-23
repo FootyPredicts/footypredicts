@@ -1,0 +1,7 @@
+{
+  "_help": "Put your affiliate tracking link in tracking_url once a bookmaker accepts you. Until then the plain url is used and the link is NOT labelled as an affiliate link.",
+  "William Hill": {"url": "https://sports.williamhill.com/betting/en-gb/football", "tracking_url": ""},
+  "Bet365":       {"url": "https://www.bet365.com/#/AS/B1/", "tracking_url": ""},
+  "BetVictor":    {"url": "https://www.betvictor.com/en-gb/sports/football", "tracking_url": ""},
+  "Betfair":      {"url": "https://www.betfair.com/sport/football", "tracking_url": ""}
+}
