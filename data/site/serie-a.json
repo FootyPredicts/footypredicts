@@ -3,7 +3,7 @@
  "name": "Serie A",
  "country": "Italy",
  "season": 2026,
- "updated": "2026-10-24T08:47:37.174844+00:00",
+ "updated": "2026-10-24T08:49:30.529104+00:00",
  "matches_used": 831,
  "fixtures": [
   {
@@ -1690,9 +1690,11 @@
        "name": "M. Thuram",
        "p": 42.4,
        "price": {
-        "odd": 1.72,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 1.73,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 1.73
+        }
        }
       },
       {
@@ -1729,9 +1731,11 @@
        "name": "Franco Mastantuono",
        "p": 20.4,
        "price": {
-        "odd": 4.65,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 4.33,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 4.33
+        }
        }
       },
       {
@@ -1739,9 +1743,11 @@
        "name": "Mateo Pellegrino",
        "p": 16.2,
        "price": {
-        "odd": 3.5,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 3.6,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 3.6
+        }
        }
       }
      ],
@@ -1868,8 +1874,8 @@
      }
     },
     "draw": {
-     "odd": 5.75,
-     "bookie": "Pinnacle",
+     "odd": 5.8,
+     "bookie": "Dafabet",
      "books": {
       "William Hill": 5.0,
       "Bet365": 5.25,

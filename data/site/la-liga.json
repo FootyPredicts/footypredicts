@@ -3,7 +3,7 @@
  "name": "La Liga",
  "country": "Spain",
  "season": 2026,
- "updated": "2026-10-24T08:47:09.956603+00:00",
+ "updated": "2026-10-24T08:49:02.839149+00:00",
  "matches_used": 850,
  "fixtures": [
   {
@@ -993,12 +993,12 @@
      }
     },
     "draw": {
-     "odd": 3.73,
-     "bookie": "Pinnacle",
+     "odd": 3.75,
+     "bookie": "Betfair",
      "books": {
       "William Hill": 3.5,
       "Bet365": 3.5,
-      "Betfair": 3.6,
+      "Betfair": 3.75,
       "BetVictor": 3.6
      }
     },

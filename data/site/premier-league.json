@@ -3,7 +3,7 @@
  "name": "Premier League",
  "country": "England",
  "season": 2026,
- "updated": "2026-10-24T08:46:55.649256+00:00",
+ "updated": "2026-10-24T08:48:48.411392+00:00",
  "matches_used": 831,
  "fixtures": [
   {
@@ -317,12 +317,12 @@
     },
     "btts_yes": {
      "odd": 1.53,
-     "bookie": "Pinnacle",
+     "bookie": "Bet365",
      "books": {
       "William Hill": 1.5,
       "Bet365": 1.53,
       "Betfair": 1.5,
-      "BetVictor": 1.49
+      "BetVictor": 1.5
      }
     },
     "btts_no": {

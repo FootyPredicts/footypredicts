@@ -3,7 +3,7 @@
  "name": "Ligue 1",
  "country": "France",
  "season": 2026,
- "updated": "2026-10-24T08:47:49.885581+00:00",
+ "updated": "2026-10-24T08:49:43.276766+00:00",
  "matches_used": 679,
  "fixtures": [
   {
@@ -1229,9 +1229,11 @@
        "name": "A. Gouiri",
        "p": 39.9,
        "price": {
-        "odd": 1.91,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 2.2,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 2.2
+        }
        }
       },
       {
@@ -1274,9 +1276,11 @@
        "name": "R. Fofana",
        "p": 15.0,
        "price": {
-        "odd": 3.5,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 4.0,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 4.0
+        }
        }
       }
      ],
@@ -1388,7 +1392,7 @@
    "odds": {
     "home": {
      "odd": 1.6,
-     "bookie": "Pinnacle",
+     "bookie": "1xBet",
      "books": {
       "William Hill": 1.55,
       "Bet365": 1.57,
