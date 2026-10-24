@@ -3,7 +3,7 @@
  "name": "Premier League",
  "country": "England",
  "season": 2026,
- "updated": "2026-10-24T08:48:48.411392+00:00",
+ "updated": "2026-10-24T09:54:31.417006+00:00",
  "matches_used": 831,
  "fixtures": [
   {
@@ -686,7 +686,7 @@
      }
     },
     "under25": {
-     "odd": 2.01,
+     "odd": 1.98,
      "bookie": "Pinnacle",
      "books": {
       "Bet365": 1.91,
@@ -695,11 +695,11 @@
      }
     },
     "btts_yes": {
-     "odd": 2.05,
-     "bookie": "Bet365",
+     "odd": 2.02,
+     "bookie": "Marathonbet",
      "books": {
       "William Hill": 2.0,
-      "Bet365": 2.05,
+      "Bet365": 2.0,
       "Betfair": 1.95,
       "BetVictor": 2.0
      }
@@ -709,7 +709,7 @@
      "bookie": "Betfair",
      "books": {
       "William Hill": 1.75,
-      "Bet365": 1.7,
+      "Bet365": 1.75,
       "Betfair": 1.87,
       "BetVictor": 1.73
      }
@@ -1211,8 +1211,8 @@
    "goals": {
     "home": {
      "fh": 53.836141286692694,
-     "sh": 56.50100851575458,
-     "any": 79.91918702949937
+     "sh": 56.50100851575457,
+     "any": 79.91918702949935
     },
     "away": {
      "fh": 40.16105683637545,
@@ -1220,7 +1220,7 @@
      "any": 71.4654357847513
     },
     "match_fh": 72.37603482240812,
-    "match_sh": 79.25724118469586
+    "match_sh": 79.25724118469584
    },
    "players": {
     "home": {
@@ -1582,9 +1582,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 43.3,
-    "draw": 26.2,
-    "away": 30.5
+    "home": 43.2,
+    "draw": 26.0,
+    "away": 30.8
    },
    "injury_effect": {
     "home": {
@@ -1658,10 +1658,10 @@
        "name": "B. Mbeumo",
        "p": 39.6,
        "price": {
-        "odd": 2.62,
+        "odd": 2.88,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 2.62
+         "Bet365": 2.88
         }
        }
       },
@@ -1868,22 +1868,22 @@
    ],
    "odds": {
     "home": {
-     "odd": 2.24,
-     "bookie": "Dafabet",
+     "odd": 2.25,
+     "bookie": "Betfair",
      "books": {
       "William Hill": 2.1,
       "Bet365": 2.2,
-      "Betfair": 2.2,
+      "Betfair": 2.25,
       "BetVictor": 2.15
      }
     },
     "draw": {
      "odd": 3.75,
-     "bookie": "1xBet",
+     "bookie": "Betfair",
      "books": {
       "William Hill": 3.5,
       "Bet365": 3.6,
-      "Betfair": 3.6,
+      "Betfair": 3.75,
       "BetVictor": 3.6
      }
     },
@@ -1893,7 +1893,7 @@
      "books": {
       "William Hill": 3.1,
       "Bet365": 3.1,
-      "Betfair": 3.1,
+      "Betfair": 3.0,
       "BetVictor": 3.0
      }
     },
@@ -1902,7 +1902,7 @@
      "bookie": "1xBet",
      "books": {
       "Bet365": 1.67,
-      "Betfair": 1.57,
+      "Betfair": 1.6,
       "BetVictor": 1.59
      }
     },
@@ -1911,7 +1911,7 @@
      "bookie": "1xBet",
      "books": {
       "Bet365": 2.2,
-      "Betfair": 2.3,
+      "Betfair": 2.25,
       "BetVictor": 2.17
      }
     },
@@ -1921,17 +1921,17 @@
      "books": {
       "William Hill": 1.55,
       "Bet365": 1.53,
-      "Betfair": 1.47,
+      "Betfair": 1.5,
       "BetVictor": 1.5
      }
     },
     "btts_no": {
-     "odd": 2.63,
+     "odd": 2.55,
      "bookie": "Betfair",
      "books": {
       "William Hill": 2.38,
       "Bet365": 2.38,
-      "Betfair": 2.63,
+      "Betfair": 2.55,
       "BetVictor": 2.4
      }
     },
@@ -2467,9 +2467,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 32.1,
+    "home": 32.4,
     "draw": 26.8,
-    "away": 41.0
+    "away": 40.7
    },
    "injury_effect": {
     "home": {
@@ -2543,10 +2543,10 @@
        "name": "J. Strand Larsen",
        "p": 27.2,
        "price": {
-        "odd": 2.5,
+        "odd": 2.4,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 2.5
+         "Bet365": 2.4
         }
        }
       },
@@ -2602,10 +2602,10 @@
        "name": "H. Barnes",
        "p": 18.5,
        "price": {
-        "odd": 3.25,
+        "odd": 3.2,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 3.25
+         "Bet365": 3.2
         }
        }
       }
@@ -2728,7 +2728,7 @@
      "books": {
       "William Hill": 2.88,
       "Bet365": 2.9,
-      "Betfair": 3.0,
+      "Betfair": 2.9,
       "BetVictor": 2.9
      }
     },
@@ -2744,11 +2744,11 @@
     },
     "away": {
      "odd": 2.38,
-     "bookie": "1xBet",
+     "bookie": "Betfair",
      "books": {
       "William Hill": 2.3,
       "Bet365": 2.3,
-      "Betfair": 2.3,
+      "Betfair": 2.38,
       "BetVictor": 2.25
      }
     },
@@ -2935,7 +2935,7 @@
    },
    "goals": {
     "home": {
-     "fh": 42.20468958341702,
+     "fh": 42.20468958341701,
      "sh": 48.12694262704667,
      "any": 70.01980546872943
     },

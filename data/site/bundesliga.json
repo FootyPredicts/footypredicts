@@ -3,7 +3,7 @@
  "name": "Bundesliga",
  "country": "Germany",
  "season": 2026,
- "updated": "2026-10-24T08:49:15.788001+00:00",
+ "updated": "2026-10-24T09:54:57.670810+00:00",
  "matches_used": 671,
  "fixtures": [
   {
@@ -1630,11 +1630,11 @@
      "any": 72.33074964372588
     },
     "away": {
-     "fh": 40.97875530225753,
+     "fh": 40.97875530225752,
      "sh": 47.716264526049365,
      "any": 69.1414885487992
     },
-    "match_fh": 63.8748836276885,
+    "match_fh": 63.874883627688476,
     "match_sh": 76.3645915997753
    },
    "players": {
@@ -2200,8 +2200,8 @@
      }
     },
     "draw": {
-     "odd": 5.18,
-     "bookie": "1xBet",
+     "odd": 5.2,
+     "bookie": "Dafabet",
      "books": {
       "William Hill": 4.6,
       "Bet365": 5.0,
@@ -2210,8 +2210,8 @@
      }
     },
     "away": {
-     "odd": 5.84,
-     "bookie": "1xBet",
+     "odd": 5.9,
+     "bookie": "Betano",
      "books": {
       "William Hill": 5.0,
       "Bet365": 5.5,
@@ -2234,7 +2234,7 @@
      "books": {
       "Bet365": 3.2,
       "Betfair": 3.1,
-      "BetVictor": 2.83
+      "BetVictor": 2.82
      }
     },
     "btts_yes": {
@@ -2243,36 +2243,40 @@
      "books": {
       "William Hill": 1.44,
       "Bet365": 1.5,
-      "Betfair": 1.4,
+      "Betfair": 1.44,
       "BetVictor": 1.44
      }
     },
     "btts_no": {
-     "odd": 2.8,
+     "odd": 2.63,
      "bookie": "Betfair",
      "books": {
       "William Hill": 2.62,
       "Bet365": 2.5,
-      "Betfair": 2.8,
+      "Betfair": 2.63,
       "BetVictor": 2.55
      }
     },
     "cards_over45": {
-     "odd": 3.26,
+     "odd": 3.27,
      "bookie": "Pinnacle",
      "books": {}
     },
     "cards": {
      "2.5": {
       "over": {
-       "odd": 1.47,
-       "bookie": "Betano",
-       "books": {}
+       "odd": 1.62,
+       "bookie": "Bet365",
+       "books": {
+        "Bet365": 1.62
+       }
       },
       "under": {
-       "odd": 2.66,
+       "odd": 2.69,
        "bookie": "Pinnacle",
-       "books": {}
+       "books": {
+        "Bet365": 2.2
+       }
       }
      },
      "3.5": {
@@ -2293,7 +2297,7 @@
      },
      "4.5": {
       "over": {
-       "odd": 3.26,
+       "odd": 3.27,
        "bookie": "Pinnacle",
        "books": {}
       },
@@ -2838,9 +2842,11 @@
        "name": "I. Matanović",
        "p": 26.5,
        "price": {
-        "odd": 2.95,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 2.88,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 2.88
+        }
        }
       },
       {
@@ -2848,9 +2854,11 @@
        "name": "Y. Suzuki",
        "p": 22.4,
        "price": {
-        "odd": 3.65,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 3.6,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 3.6
+        }
        }
       }
      ],
@@ -2881,9 +2889,11 @@
        "name": "M. Olise",
        "p": 28.4,
        "price": {
-        "odd": 2.05,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 2.4,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 2.4
+        }
        }
       },
       {
@@ -2891,9 +2901,11 @@
        "name": "H. Kane",
        "p": 24.2,
        "price": {
-        "odd": 1.35,
-        "bookie": "Betano",
-        "books": {}
+        "odd": 1.5,
+        "bookie": "Bet365",
+        "books": {
+         "Bet365": 1.5
+        }
        }
       }
      ],
@@ -3008,7 +3020,7 @@
      }
     },
     "draw": {
-     "odd": 6.05,
+     "odd": 6.06,
      "bookie": "Pinnacle",
      "books": {
       "William Hill": 5.0,
@@ -3028,7 +3040,7 @@
      }
     },
     "over25": {
-     "odd": 1.26,
+     "odd": 1.27,
      "bookie": "Betano",
      "books": {
       "Bet365": 1.25,

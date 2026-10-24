@@ -3,7 +3,7 @@
  "name": "Ligue 1",
  "country": "France",
  "season": 2026,
- "updated": "2026-10-24T08:49:43.276766+00:00",
+ "updated": "2026-10-24T09:55:24.887968+00:00",
  "matches_used": 679,
  "fixtures": [
   {
@@ -20,9 +20,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 38.5,
+    "home": 38.4,
     "draw": 26.7,
-    "away": 34.7
+    "away": 34.9
    },
    "injury_effect": {
     "home": {
@@ -249,12 +249,12 @@
    ],
    "odds": {
     "home": {
-     "odd": 2.54,
+     "odd": 2.57,
      "bookie": "Pinnacle",
      "books": {
       "William Hill": 2.38,
       "Bet365": 2.5,
-      "Betfair": 2.45,
+      "Betfair": 2.5,
       "BetVictor": 2.38
      }
     },
@@ -274,7 +274,7 @@
      "books": {
       "William Hill": 2.7,
       "Bet365": 2.7,
-      "Betfair": 2.75,
+      "Betfair": 2.7,
       "BetVictor": 2.63
      }
     },
@@ -288,8 +288,8 @@
      }
     },
     "under25": {
-     "odd": 2.3,
-     "bookie": "Betfair",
+     "odd": 2.35,
+     "bookie": "Pinnacle",
      "books": {
       "Bet365": 2.2,
       "Betfair": 2.3,
@@ -469,11 +469,11 @@
     },
     "away": {
      "fh": 40.97875530225752,
-     "sh": 58.471401632221955,
+     "sh": 58.47140163222194,
      "any": 75.48930433781102
     },
     "match_fh": 65.79256858634534,
-    "match_sh": 81.4527468274107
+    "match_sh": 81.45274682741069
    },
    "players": {
     "home": {
@@ -2408,10 +2408,10 @@
        "name": "L. Mafouta",
        "p": 42.3,
        "price": {
-        "odd": 2.88,
+        "odd": 2.75,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 2.88
+         "Bet365": 2.75
         }
        }
       },
@@ -2656,7 +2656,7 @@
   },
   {
    "id": 1552800,
-   "kickoff": "2026-10-25T19:45:00",
+   "kickoff": "2026-10-26T19:30:00",
    "round": "Regular Season - 8",
    "home": "Paris Saint Germain",
    "away": "Lyon",

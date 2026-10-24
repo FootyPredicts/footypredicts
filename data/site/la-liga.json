@@ -3,7 +3,7 @@
  "name": "La Liga",
  "country": "Spain",
  "season": 2026,
- "updated": "2026-10-24T08:49:02.839149+00:00",
+ "updated": "2026-10-24T09:54:45.402569+00:00",
  "matches_used": 850,
  "fixtures": [
   {
@@ -20,9 +20,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 54.0,
+    "home": 54.1,
     "draw": 24.9,
-    "away": 21.1
+    "away": 20.9
    },
    "injury_effect": {
     "home": {
@@ -248,7 +248,7 @@
      "books": {
       "William Hill": 1.75,
       "Bet365": 1.75,
-      "Betfair": 1.75,
+      "Betfair": 1.73,
       "BetVictor": 1.75
      }
     },
@@ -268,7 +268,7 @@
      "books": {
       "William Hill": 4.4,
       "Bet365": 4.33,
-      "Betfair": 4.6,
+      "Betfair": 4.75,
       "BetVictor": 4.6
      }
     },
@@ -740,9 +740,9 @@
    "call_reason": "",
    "low_data": false,
    "market": {
-    "home": 30.4,
-    "draw": 26.4,
-    "away": 43.2
+    "home": 28.9,
+    "draw": 26.6,
+    "away": 44.5
    },
    "injury_effect": {
     "home": {
@@ -815,10 +815,10 @@
        "name": "David Otorbi",
        "p": 12.0,
        "price": {
-        "odd": 6.0,
+        "odd": 5.5,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 6.0
+         "Bet365": 5.5
         }
        }
       },
@@ -827,10 +827,10 @@
        "name": "Luis Rioja",
        "p": 11.3,
        "price": {
-        "odd": 6.0,
+        "odd": 5.5,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 6.0
+         "Bet365": 5.5
         }
        }
       }
@@ -862,10 +862,10 @@
        "name": "G. Mikautadze",
        "p": 22.0,
        "price": {
-        "odd": 2.4,
+        "odd": 2.5,
         "bookie": "Bet365",
         "books": {
-         "Bet365": 2.4
+         "Bet365": 2.5
         }
        }
       },
@@ -983,22 +983,22 @@
    ],
    "odds": {
     "home": {
-     "odd": 3.32,
-     "bookie": "1xBet",
+     "odd": 3.5,
+     "bookie": "Betfair",
      "books": {
       "William Hill": 3.0,
-      "Bet365": 3.2,
-      "Betfair": 3.1,
-      "BetVictor": 3.13
+      "Bet365": 3.4,
+      "Betfair": 3.5,
+      "BetVictor": 3.2
      }
     },
     "draw": {
-     "odd": 3.75,
-     "bookie": "Betfair",
+     "odd": 3.7,
+     "bookie": "1xBet",
      "books": {
       "William Hill": 3.5,
       "Bet365": 3.5,
-      "Betfair": 3.75,
+      "Betfair": 3.6,
       "BetVictor": 3.6
      }
     },
@@ -1007,27 +1007,27 @@
      "bookie": "1xBet",
      "books": {
       "William Hill": 2.15,
-      "Bet365": 2.2,
-      "Betfair": 2.2,
-      "BetVictor": 2.2
+      "Bet365": 2.1,
+      "Betfair": 2.1,
+      "BetVictor": 2.15
      }
     },
     "over25": {
-     "odd": 1.82,
-     "bookie": "Betano",
+     "odd": 1.79,
+     "bookie": "1xBet",
      "books": {
-      "Bet365": 1.8,
+      "Bet365": 1.73,
       "Betfair": 1.67,
-      "BetVictor": 1.71
+      "BetVictor": 1.69
      }
     },
     "under25": {
      "odd": 2.18,
      "bookie": "1xBet",
      "books": {
-      "Bet365": 2.0,
+      "Bet365": 2.1,
       "Betfair": 2.15,
-      "BetVictor": 1.98
+      "BetVictor": 2.01
      }
     },
     "btts_yes": {
@@ -1036,18 +1036,18 @@
      "books": {
       "William Hill": 1.6,
       "Bet365": 1.62,
-      "Betfair": 1.6,
-      "BetVictor": 1.6
+      "Betfair": 1.53,
+      "BetVictor": 1.57
      }
     },
     "btts_no": {
-     "odd": 2.3,
-     "bookie": "William Hill",
+     "odd": 2.38,
+     "bookie": "Betfair",
      "books": {
       "William Hill": 2.3,
       "Bet365": 2.2,
-      "Betfair": 2.25,
-      "BetVictor": 2.2
+      "Betfair": 2.38,
+      "BetVictor": 2.25
      }
     },
     "cards_over45": {
@@ -1087,14 +1087,14 @@
        "books": {}
       },
       "under": {
-       "odd": 2.43,
+       "odd": 2.47,
        "bookie": "Pinnacle",
        "books": {}
       }
      },
      "5.5": {
       "over": {
-       "odd": 2.07,
+       "odd": 2.06,
        "bookie": "Pinnacle",
        "books": {
         "Bet365": 1.8
@@ -1110,7 +1110,7 @@
      },
      "6.5": {
       "over": {
-       "odd": 3.11,
+       "odd": 3.1,
        "bookie": "Pinnacle",
        "books": {}
       },
