@@ -1,5 +1,385 @@
 [
  {
+  "id": 1557443,
+  "league": "premier-league",
+  "league_name": "Premier League",
+  "published": "2026-10-23T14:31:25+01:00",
+  "kickoff": "2026-10-23T19:00:00",
+  "home": "Ipswich",
+  "away": "Nottingham Forest",
+  "score": "1-1",
+  "pick": "Away",
+  "pick_pct": 42.3,
+  "pick_odds": 2.32,
+  "actual": "Draw",
+  "correct": false,
+  "p_actual": 27.0,
+  "draw_risk": false,
+  "over25_p": 52.6,
+  "over25": false,
+  "btts_p": 57.0,
+  "btts": true,
+  "cards5_p": 36.9,
+  "cards": 2.0,
+  "cards_exp": 3.99,
+  "scorers": [
+   {
+    "name": "Emersonn",
+    "team": "Ipswich",
+    "p": 20.0,
+    "hit": false
+   },
+   {
+    "name": "L. Davis",
+    "team": "Ipswich",
+    "p": 13.1,
+    "hit": false
+   },
+   {
+    "name": "D. Ndoye",
+    "team": "Nottingham Forest",
+    "p": 26.1,
+    "hit": false
+   },
+   {
+    "name": "M. Gibbs-White",
+    "team": "Nottingham Forest",
+    "p": 25.2,
+    "hit": false
+   }
+  ],
+  "bookings": [
+   {
+    "name": "A. Fatawu",
+    "team": "Ipswich",
+    "p": 31.7,
+    "hit": false
+   },
+   {
+    "name": "L. Davis",
+    "team": "Ipswich",
+    "p": 20.8,
+    "hit": false
+   },
+   {
+    "name": "O. Aina",
+    "team": "Nottingham Forest",
+    "p": 30.7,
+    "hit": false
+   },
+   {
+    "name": "Jair",
+    "team": "Nottingham Forest",
+    "p": 24.7,
+    "hit": false
+   }
+  ]
+ },
+ {
+  "id": 1570423,
+  "league": "la-liga",
+  "league_name": "La Liga",
+  "published": "2026-10-23T14:31:25+01:00",
+  "kickoff": "2026-10-23T19:00:00",
+  "home": "Alaves",
+  "away": "Malaga",
+  "score": "1-1",
+  "pick": "Home",
+  "pick_pct": 69.8,
+  "pick_odds": 1.7,
+  "actual": "Draw",
+  "correct": false,
+  "p_actual": 21.1,
+  "draw_risk": false,
+  "over25_p": 46.4,
+  "over25": false,
+  "btts_p": 38.1,
+  "btts": true,
+  "cards5_p": 49.6,
+  "cards": 3.0,
+  "cards_exp": 4.74,
+  "scorers": [
+   {
+    "name": "L. Boyé",
+    "team": "Alaves",
+    "p": 44.7,
+    "hit": false
+   },
+   {
+    "name": "M. Díaz",
+    "team": "Alaves",
+    "p": 28.0,
+    "hit": false
+   },
+   {
+    "name": "Adrián Niño Heredia",
+    "team": "Malaga",
+    "p": 15.9,
+    "hit": true
+   },
+   {
+    "name": "Chupe",
+    "team": "Malaga",
+    "p": 12.6,
+    "hit": false
+   }
+  ],
+  "bookings": [
+   {
+    "name": "A. Rebbach",
+    "team": "Alaves",
+    "p": 24.0,
+    "hit": false
+   },
+   {
+    "name": "Antonio Blanco",
+    "team": "Alaves",
+    "p": 23.4,
+    "hit": false
+   },
+   {
+    "name": "David Larrubia",
+    "team": "Malaga",
+    "p": 24.0,
+    "hit": false
+   },
+   {
+    "name": "Chupe",
+    "team": "Malaga",
+    "p": 22.5,
+    "hit": false
+   }
+  ]
+ },
+ {
+  "id": 1550165,
+  "league": "serie-a",
+  "league_name": "Serie A",
+  "published": "2026-10-23T14:31:25+01:00",
+  "kickoff": "2026-10-23T18:45:00",
+  "home": "Torino",
+  "away": "Monza",
+  "score": "3-2",
+  "pick": "Home",
+  "pick_pct": 49.3,
+  "pick_odds": 2.18,
+  "actual": "Home",
+  "correct": true,
+  "p_actual": 49.3,
+  "draw_risk": false,
+  "over25_p": 66.1,
+  "over25": true,
+  "btts_p": 66.3,
+  "btts": true,
+  "cards5_p": 28.5,
+  "cards": 1.0,
+  "cards_exp": 3.54,
+  "scorers": [
+   {
+    "name": "C. Adams",
+    "team": "Torino",
+    "p": 38.2,
+    "hit": false
+   },
+   {
+    "name": "G. Simeone",
+    "team": "Torino",
+    "p": 30.7,
+    "hit": false
+   },
+   {
+    "name": "Gustavo Varela",
+    "team": "Monza",
+    "p": 34.3,
+    "hit": true
+   },
+   {
+    "name": "Jay Robinson",
+    "team": "Monza",
+    "p": 20.7,
+    "hit": false
+   }
+  ],
+  "bookings": [
+   {
+    "name": "P. Comuzzo",
+    "team": "Torino",
+    "p": 15.2,
+    "hit": false
+   },
+   {
+    "name": "Daniel Bragança",
+    "team": "Torino",
+    "p": 13.6,
+    "hit": false
+   },
+   {
+    "name": "L. Lucchesi",
+    "team": "Monza",
+    "p": 29.0,
+    "hit": false
+   },
+   {
+    "name": "S. Birindelli",
+    "team": "Monza",
+    "p": 21.6,
+    "hit": false
+   }
+  ]
+ },
+ {
+  "id": 1552794,
+  "league": "ligue-1",
+  "league_name": "Ligue 1",
+  "published": "2026-10-23T14:31:25+01:00",
+  "kickoff": "2026-10-23T18:45:00",
+  "home": "Stade Brestois 29",
+  "away": "Nice",
+  "score": "1-2",
+  "pick": "Home",
+  "pick_pct": 44.4,
+  "pick_odds": 2.31,
+  "actual": "Away",
+  "correct": false,
+  "p_actual": 29.0,
+  "draw_risk": false,
+  "over25_p": 53.5,
+  "over25": true,
+  "btts_p": 57.3,
+  "btts": true,
+  "cards5_p": 32.1,
+  "cards": 8.0,
+  "cards_exp": 3.74,
+  "scorers": [
+   {
+    "name": "K. Doumbia",
+    "team": "Stade Brestois 29",
+    "p": 23.6,
+    "hit": false
+   },
+   {
+    "name": "L. Ajorque",
+    "team": "Stade Brestois 29",
+    "p": 23.1,
+    "hit": true
+   },
+   {
+    "name": "E. Wahi",
+    "team": "Nice",
+    "p": 21.5,
+    "hit": true
+   },
+   {
+    "name": "M. Amoura",
+    "team": "Nice",
+    "p": 17.8,
+    "hit": false
+   }
+  ],
+  "bookings": [
+   {
+    "name": "K. Doumbia",
+    "team": "Stade Brestois 29",
+    "p": 26.5,
+    "hit": true
+   },
+   {
+    "name": "B. Locko",
+    "team": "Stade Brestois 29",
+    "p": 20.8,
+    "hit": true
+   },
+   {
+    "name": "M. Amoura",
+    "team": "Nice",
+    "p": 20.7,
+    "hit": false
+   },
+   {
+    "name": "Y. Ndayishimiye",
+    "team": "Nice",
+    "p": 20.4,
+    "hit": false
+   }
+  ]
+ },
+ {
+  "id": 1575196,
+  "league": "bundesliga",
+  "league_name": "Bundesliga",
+  "published": "2026-10-23T14:31:25+01:00",
+  "kickoff": "2026-10-23T18:30:00",
+  "home": "VfB Stuttgart",
+  "away": "Borussia Mönchengladbach",
+  "score": "2-3",
+  "pick": "Home",
+  "pick_pct": 72.6,
+  "pick_odds": 1.39,
+  "actual": "Away",
+  "correct": false,
+  "p_actual": 9.9,
+  "draw_risk": false,
+  "over25_p": 63.2,
+  "over25": true,
+  "btts_p": 51.5,
+  "btts": true,
+  "cards5_p": 36.8,
+  "cards": 6.0,
+  "cards_exp": 3.99,
+  "scorers": [
+   {
+    "name": "E. Demirović",
+    "team": "VfB Stuttgart",
+    "p": 31.2,
+    "hit": true
+   },
+   {
+    "name": "D. Undav",
+    "team": "VfB Stuttgart",
+    "p": 22.3,
+    "hit": false
+   },
+   {
+    "name": "H. Bolin",
+    "team": "Borussia Mönchengladbach",
+    "p": 17.3,
+    "hit": false
+   },
+   {
+    "name": "F. Neuhaus",
+    "team": "Borussia Mönchengladbach",
+    "p": 11.7,
+    "hit": false
+   }
+  ],
+  "bookings": [
+   {
+    "name": "M. Mittelstädt",
+    "team": "VfB Stuttgart",
+    "p": 16.9,
+    "hit": false
+   },
+   {
+    "name": "J. Chabot",
+    "team": "VfB Stuttgart",
+    "p": 15.1,
+    "hit": false
+   },
+   {
+    "name": "K. Diks",
+    "team": "Borussia Mönchengladbach",
+    "p": 30.8,
+    "hit": false
+   },
+   {
+    "name": "S. Machino",
+    "team": "Borussia Mönchengladbach",
+    "p": 19.7,
+    "hit": false
+   }
+  ]
+ },
+ {
   "id": 1570389,
   "league": "la-liga",
   "league_name": "La Liga",
